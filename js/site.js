@@ -68,7 +68,7 @@
         </div>
         <div class="container copy">
           <span>© ${new Date().getFullYear()} Estampas DTF Express — Todos os direitos reservados.</span>
-          <span>DTF Têxtil · DTF UV · Brasil</span>
+          <a class="dev" href="https://infinityview360.com.br" target="_blank" rel="noopener">Desenvolvido por <img src="assets/infinityview.png" alt="Infinity View" width="88" height="17"> infinityview360.com.br</a>
         </div>
       </footer>
       <a class="wa-float" href="${waLink()}" target="_blank" rel="noopener" aria-label="Falar no WhatsApp">${WA_ICON}</a>`;

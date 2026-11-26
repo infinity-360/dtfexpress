@@ -326,3 +326,6 @@ section.darkblock .head .eyebrow{color:var(--y)}
 .brand img{height:74px}
 .nav{height:88px}
 @media(max-width:900px){.menu{inset:88px 0 auto 0}}
+.copy .dev{display:inline-flex;align-items:center;gap:.5em;text-decoration:none;opacity:.6;transition:opacity .2s}
+.copy .dev:hover{opacity:1}
+.copy .dev img{height:17px;width:auto}
