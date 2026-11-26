@@ -323,3 +323,6 @@ section.darkblock .head .eyebrow{color:var(--y)}
 @media(max-width:900px){.apply{grid-template-columns:1fr 1fr}}
 @media(max-width:520px){.apply{grid-template-columns:1fr}}
 .hero-badge{bottom:-34px;left:12px}
+.brand img{height:74px}
+.nav{height:88px}
+@media(max-width:900px){.menu{inset:88px 0 auto 0}}

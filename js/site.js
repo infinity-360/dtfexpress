@@ -24,7 +24,7 @@
             ${link('index.html', 'Home', 'home')}
             ${link('index.html#como-funciona', 'Como montar', '')}
             ${link('index.html#aplicacao', 'Aplicação', '')}
-            ${link('index.html#tour', 'Tour 360°', '')}
+            ${link('index.html#tour', 'Nossa loja', '')}
             ${link('index.html#faq', 'Dúvidas', '')}
             <a class="btn btn-primary btn-sm" href="montador.html">Criar DTF</a>
           </nav>
@@ -63,7 +63,7 @@
           <div>
             <h4>Envios</h4>
             <p>Produção rápida e envios todos os dias para todo o Brasil.</p>
-            <a href="index.html#tour">Tour virtual 360° →</a>
+            <a href="index.html#tour">Conheça a nossa loja →</a>
           </div>
         </div>
         <div class="container copy">
